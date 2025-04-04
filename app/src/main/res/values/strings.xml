@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="inventory_overview">Inventory Overview</string>
+    <string name="add_item">Add item</string>
+    <string name="increase_quantity">Increase Quantity</string>
+    <string name="decrease_quantity">Decrease Quantity</string>
+    <string name="delete">Delete</string>
+    <string name="total_quantity">Total Quantity</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_number">Item Number</string>
+    <string name="id">ID</string>
+    <string name="create_item">Create Item</string>
+</resources>
